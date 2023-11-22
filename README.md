@@ -6,7 +6,7 @@ Este backend contiene todo lo necesario para configurar un servidor Express. Par
 - **Modo Normal:** Utilice el comando `npm run start` para iniciar el servidor en el modo de producción.
 - **Modo Pruebas:** Para iniciar en modo de desarrollo o pruebas, utilice `npm run dev`.
 
-# Enpoints
+# Endpoints
 
 
 ![Validar Nits](/backend/IMAGENES/validarnit.png) 
