@@ -1,10 +1,10 @@
 module.exports = {
 
     database :{
-        host: 'database-1.c5kaeu98noal.us-east-2.rds.amazonaws.com',
+        host: '',
         port: 3306,
         user: 'admin',
-        password: 'Analisis22023',
+        password: '',
         database: 'PRUEBA',
 
     }
